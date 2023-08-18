@@ -1,15 +1,1 @@
-# bank2ynab specific stuff
-user_configuration.conf
-test-data/temp-test.conf
-b2y_env/
-env/
-# general
-*.pyc
-# vscode stuff
-bank2ynab/workspace.code-workspace
-.vscode
-.coverage
-# mac stuff
-.DS_Store
-.AppleDouble
-.LSOverride
+#  
